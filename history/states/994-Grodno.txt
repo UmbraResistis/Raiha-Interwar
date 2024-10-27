@@ -1,0 +1,29 @@
+state={
+	id=994
+	name="STATE_994"
+	
+	history={
+		victory_points = {
+			9304 1 
+		}
+		victory_points = {
+			3393 3 
+		}
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = POL
+		add_core_of = BLR
+		add_core_of = SOV
+
+	}
+	provinces={
+		3366 3393 6340 6413 11391
+	}
+	manpower=682967
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

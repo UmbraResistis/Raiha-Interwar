@@ -1,0 +1,3 @@
+KOS	= "countries/Kosovo.txt"
+SAR = "countries/Saarland.txt"
+FRI = "countries/Frisia.txt"

@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_sar_victor_rault"
+		texturefile = "gfx/leaders/SAR/portrait_sar_victor_rault.dds"
+	}
+	
+}

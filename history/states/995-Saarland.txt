@@ -1,0 +1,22 @@
+state={
+	id=995
+	name="STATE_995"
+	
+	history={
+		owner = SAR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = SAR
+		add_core_of = GER
+	}
+	provinces={
+		11531 
+	}
+	manpower=605548
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

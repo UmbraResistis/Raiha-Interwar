@@ -1,0 +1,29 @@
+state={
+	id=991
+	name="STATE_991"
+	
+	history={
+		owner = KUR
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			7604 1 
+		}
+		victory_points = {
+			1822 1 
+		}
+		add_core_of = PER
+		add_core_of = KUR
+		add_core_of = AZR
+
+	}
+
+	provinces={
+		1636 1822 7604 12861 13120 
+	}
+	manpower=457929
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

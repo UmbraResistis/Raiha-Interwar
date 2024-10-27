@@ -1,0 +1,25 @@
+state={
+	id=989
+	name="STATE_989"
+	history={
+		owner = HOL
+		add_core_of = HOL
+		victory_points = {
+			6241 5 
+		}
+		victory_points = {
+			9363 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		6241 6286 8622 9363 9403 
+	}
+	manpower=1576000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=14.000
+}

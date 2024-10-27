@@ -1,0 +1,23 @@
+state={
+	id=987
+	name="STATE_987"
+	provinces={
+		3488
+	}
+	manpower= 126250
+	
+	state_category = enclave
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = BEL
+		add_core_of = FRA
+		add_core_of = GER
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

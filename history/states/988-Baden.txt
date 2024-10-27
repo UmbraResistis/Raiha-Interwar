@@ -1,0 +1,31 @@
+state={
+	id=988
+	name="STATE_988"
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			arms_factory = 5
+			industrial_complex = 1
+			air_base = 3
+
+		}
+		add_core_of = GER
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 3
+				industrial_complex = 1
+
+			}
+
+		}
+
+	}
+	provinces={
+		3530 3692 6542 6568 6712 11640 
+	}
+	manpower=2034742
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

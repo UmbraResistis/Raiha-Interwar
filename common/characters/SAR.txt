@@ -1,0 +1,15 @@
+characters={
+	SAR_victor_rault={ #Non-Aligned Leader
+		name=SAR_victor_rault
+		portraits={
+			civilian={
+				large="GFX_portrait_sar_victor_rault"
+			}
+		}
+		country_leader={
+			ideology= oligarchism
+			traits={ figurehead_president }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
