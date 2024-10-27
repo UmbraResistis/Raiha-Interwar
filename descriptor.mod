@@ -3,4 +3,4 @@ tags={
 	"Alternative History"
 }
 name="RaihaInterwar"
-supported_version="1.14.8"
+supported_version="1.14.10"
